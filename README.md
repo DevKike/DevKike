@@ -43,7 +43,7 @@
   
   <h2>Get in Touch</h2>
   <p></p>
-  <p>📫 Let's Chat on LinkedIn! <a href="https://www.linkedin.com/in/%C3%A1lvaro-narv%C3%A1ez-escorcia-372039141/">LinkedIn</a></p>
+  <p>📫 Let's Chat on <a href="https://www.linkedin.com/in/%C3%A1lvaro-narv%C3%A1ez-escorcia-372039141/">LinkedIn</a>!</p>
   <p>📨 Email me at: <a href="mailto:alvaronarvaez151@gmail.com">alvaronarvaez151@gmail.com</a></p>
   <br>
   <p>💬 Thank you for visiting my profile, feel free to reach out and connect!</p>
